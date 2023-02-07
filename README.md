@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently learning the mathematical foundations of machine learning and bayesian modeling!
+- 🌱 I’m currently learning about machine / deep learning models!
 - 📫 How to reach me "suibhneof1@gmail.com"
 
 <!---
