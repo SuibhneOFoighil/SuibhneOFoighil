@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently learning about machine / deep learning models!
+- 🌱 I’m currently learning about machine and deep learning models!
 - 📫 How to reach me "suibhne@umich.edu"
 
 <!---
