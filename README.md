@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 👀 I’m interested in collective intelligence, learning, and belonging!
+- 👀 I’m interested in social networks and computational social science!
 - 🌱 I’m currently learning the mathematical foundations of machine learning and bayesian modeling!
 - 📫 How to reach me "suibhneof1@gmail.com"
 
