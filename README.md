@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuibhneOFoighil
 - 🌱 I’m currently learning about deep learning models and typescript!
-- 📫 How to reach me "suibhne@umich.edu"
+- 📫 How to reach me "suibhneof1@gmail.com"
 
 <!---
 SuibhneOFoighil/SuibhneOFoighil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
