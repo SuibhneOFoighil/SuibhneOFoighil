@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently learning about deep learning models and typescript!
+- 🌱 I’m currently learning about web development!
 - 📫 How to reach me "suibhneof1@gmail.com"
 
 <!---
