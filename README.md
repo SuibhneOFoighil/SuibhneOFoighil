@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently learning about web development!
+- 🌱 I’m currently learning about LLM apps!
 - 📫 How to reach me "suibhneof1@gmail.com"
 
 <!---
