@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently learning about LLM apps!
-- 📫 How to reach me "suibhneof1@gmail.com"
+- 🌱 I’m currently building a search engine for video content (molus)[https://molus.app]
+- 📫 Please reach out at "molus.suibhne@gmail.com"
 
 <!---
 SuibhneOFoighil/SuibhneOFoighil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
