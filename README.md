@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently building a search engine for video content [molus](https://molus.app)
+- 🌱 I’m currently building a search engine for video content ([see Molus])(https://molus.app)
 - 📫 Please reach out at "molus.suibhne@gmail.com"
 
 <!---
