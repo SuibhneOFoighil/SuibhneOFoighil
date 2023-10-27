@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SuibhneOFoighil
-- 🌱 I’m currently building an AI for political content [(see Molus)](https://molus.app)
 - 📫 Please reach out to me at [suibhne@molus.app](mailto:suibhne@molus.app)
 
 <!---
